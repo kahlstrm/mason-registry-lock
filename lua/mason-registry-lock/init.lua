@@ -1,5 +1,5 @@
 local M = {}
 
-M.registry_release = "github:mason-org/mason-registry@2025-05-21-rear-eon"
+M.registry_release = "github:mason-org/mason-registry@2025-05-21-valid-roughy"
 
 return M
